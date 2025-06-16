@@ -123,6 +123,3 @@ Enhancements are welcome! To contribute:
 
 ---
 
-## 📄 License
-
-MIT © [Your Name]. See the LICENSE file for details.
