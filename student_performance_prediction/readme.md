@@ -94,15 +94,6 @@ python src/predict.py \
 
 ---
 
-## 🏆 Results
-
-- **Regression**: RMSE = Y, R² = Z
-- **Classification**: Accuracy = X% (pass/fail)
-- **Key predictors**:
-  - Study time, attendance, past performance, parental education
-
----
-
 ## 🔧 Future Work
 
 - Add features: extracurriculars, tutoring, socioeconomic factors
